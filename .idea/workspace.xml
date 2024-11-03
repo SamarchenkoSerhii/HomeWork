@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81e46868-b3fd-43db-94e4-38c20d3274da" name="Changes" comment="HomeWork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +44,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HemeWork7-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork6_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork7_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork7_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork7_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork7_4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HemeWork7-2.executor": "Run",
+    "Python.HomeWork6_2.executor": "Run",
+    "Python.HomeWork6_3.executor": "Run",
+    "Python.HomeWork7_1.executor": "Run",
+    "Python.HomeWork7_2.executor": "Run",
+    "Python.HomeWork7_3.executor": "Run",
+    "Python.HomeWork7_4.executor": "Run",
+    "Python.HomeWork8_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +82,7 @@
       <updated>1730176889547</updated>
       <workItem from="1730176901019" duration="8991000" />
       <workItem from="1730468901706" duration="13117000" />
-      <workItem from="1730637147591" duration="1897000" />
+      <workItem from="1730637147591" duration="6897000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork">
       <option name="closed" value="true" />
@@ -178,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730481336519</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HomeWork">
+      <option name="closed" value="true" />
+      <created>1730657697950</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730657697950</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +201,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork6_3.coverage" NAME="HomeWork6_3 Coverage Results" MODIFIED="1730208224627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork7_1.coverage" NAME="HomeWork7_1 Coverage Results" MODIFIED="1730471962511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$HomeWork8_1.coverage" NAME="HomeWork8_1 Coverage Results" MODIFIED="1730666871517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork7_3.coverage" NAME="HomeWork7_3 Coverage Results" MODIFIED="1730478872703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork7_2.coverage" NAME="HomeWork7_2 Coverage Results" MODIFIED="1730476210965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork6_2.coverage" NAME="HomeWork6_2 Coverage Results" MODIFIED="1730208155811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
