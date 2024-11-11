@@ -7,5 +7,4 @@ def common_elements():
     List1 = set(list(set(List1) & set(List2)))
     return List1
 
-print(common_elements())
 assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
