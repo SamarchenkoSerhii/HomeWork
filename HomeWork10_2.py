@@ -1,7 +1,8 @@
-def first_word(text):
-    """ Пошук першого слова """
-    pass
+import re
 
+def first_word(text):
+    text = re.findall(r"\b[\w']+", text)
+    return text[0]
 
 assert first_word("Hello world") == "Hello", 'Test1'
 assert first_word("greetings, friends") == "greetings", 'Test2'

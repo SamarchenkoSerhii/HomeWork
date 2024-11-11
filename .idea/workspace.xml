@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e46868-b3fd-43db-94e4-38c20d3274da" name="Changes" comment="HomeWork">
-      <change afterPath="$PROJECT_DIR$/HomeWork10_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork10_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork10_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Python.HemeWork7-2.executor": "Run",
     "Python.HomeWork10_1.executor": "Run",
+    "Python.HomeWork10_2.executor": "Run",
     "Python.HomeWork10_3.executor": "Run",
     "Python.HomeWork53.executor": "Run",
     "Python.HomeWork6_2.executor": "Run",
@@ -94,7 +95,7 @@
       <workItem from="1730637147591" duration="31386000" />
       <workItem from="1730930119629" duration="31000" />
       <workItem from="1730930183710" duration="17726000" />
-      <workItem from="1731175539620" duration="6820000" />
+      <workItem from="1731175539620" duration="11037000" />
     </task>
     <task id="LOCAL-00001" summary="HomeWork">
       <option name="closed" value="true" />
@@ -312,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731279343674</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="HomeWork">
+      <option name="closed" value="true" />
+      <created>1731280867534</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1731280867534</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +333,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork8_1.coverage" NAME="HomeWork8_1 Coverage Results" MODIFIED="1730674760830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$HomeWork10_2.coverage" NAME="HomeWork10_2 Coverage Results" MODIFIED="1731285437398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork7_3.coverage" NAME="HomeWork7_3 Coverage Results" MODIFIED="1730478872703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork7_2.coverage" NAME="HomeWork7_2 Coverage Results" MODIFIED="1730476210965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/pythonProject$HomeWork9_11.coverage" NAME="HomeWork9_11 Coverage Results" MODIFIED="1730986811748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
