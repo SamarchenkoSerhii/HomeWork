@@ -1,6 +1,16 @@
 def is_even(number):
-    print(number)
+    number = str(number)
+    i = 0
+    while i < 10:
+        if int(number[-1]) == i : 
+            result = True
+            i = 10
+        if int(number[-1]) == i+1 : 
+            result = False
+            i = 10    
+        i +=2
+    return result
 
-assert is_even(2494563894038**2) != True, 'Test1'
-assert is_even(1056897**2) != False, 'Test2'
-assert is_even(24945638940387**3) != False, 'Test3'
+assert is_even(2494563894038**2) == True, 'Test1'
+assert is_even(1056897**2) == False, 'Test2'
+assert is_even(24945638940387**3) == False, 'Test3'
