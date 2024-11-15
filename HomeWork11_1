@@ -1,6 +1,3 @@
-
-
-
 def prime_generator(end):
     for num in range(2, end + 1):
         B_div = True
