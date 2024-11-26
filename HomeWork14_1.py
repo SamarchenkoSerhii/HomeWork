@@ -1,10 +1,8 @@
-# Пользовательское исключение
 class GroupLimitError(Exception):
-    def __init__(self, message="В группе не может быть больше 10 студентов"):
+    def __init__(self, message="У групі не може бути більше 10 студентів"):
         self.message = message
         super().__init__(self.message)
 
-# Классы Human, Student и Group
 class Human:
     def __init__(self, gender, age, first_name, last_name):
         self.gender = gender
@@ -30,7 +28,7 @@ class Group:
 
     def add_student(self, student):
         if len(self.group) >= 10:
-            raise GroupLimitError(f"Группа {self.number} уже содержит 10 студентов!")
+            raise GroupLimitError(f"Група {self.number} вже містить 10 студентів!")
         self.group.add(student)
 
     def delete_student(self, last_name):
@@ -48,18 +46,15 @@ class Group:
         all_students = "\n".join(str(student) for student in self.group)
         return f"Група: {self.number}\nСтуденти:\n{all_students}"
 
-# Пример использования
 st1 = Student('Male', 30, 'Steve', 'Jobs', 'AN142')
 st2 = Student('Female', 25, 'Liza', 'Taylor', 'AN145')
-
 gr = Group('PD1')
 
 try:
     gr.add_student(st1)
     gr.add_student(st2)
-    # Добавляем студентов, чтобы достичь лимита
     for i in range(3, 12):
         gr.add_student(Student('Male', 20, f'Student{i}', f'Lastname{i}', f'RB{i}'))
     print(gr)
 except GroupLimitError as e:
-    print(f"Ошибка: {e}")
+    print(f"Помилка: {e}")
